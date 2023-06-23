@@ -1,0 +1,12 @@
+C:\My\.net\ProductsApi\ProductsApi.Models\bin\Debug\net6.0\ProductsApi.Models.deps.json
+C:\My\.net\ProductsApi\ProductsApi.Models\bin\Debug\net6.0\ProductsApi.Models.dll
+C:\My\.net\ProductsApi\ProductsApi.Models\bin\Debug\net6.0\ProductsApi.Models.pdb
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.csproj.AssemblyReference.cache
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.AssemblyInfoInputs.cache
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.AssemblyInfo.cs
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.csproj.CoreCompileInputs.cache
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.dll
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\refint\ProductsApi.Models.dll
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ProductsApi.Models.pdb
+C:\My\.net\ProductsApi\ProductsApi.Models\obj\Debug\net6.0\ref\ProductsApi.Models.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProductsApi.Models/1.0.0": {
+        "runtime": {
+          "ProductsApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductsApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

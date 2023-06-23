@@ -1,0 +1,49 @@
+<app-product-header (outputEvent)="receiveFilter($event)"></app-product-header>
+<div class="card">
+    <div class="card flex justify-content-center">
+        <p-button label="+ Add product" [loading]="loading" (click)="load()" ></p-button>
+        <p-button label="Loading custom icon" [loading]="loading" loadingIcon="pi pi-bell" (click)="load()"></p-button>
+    </div>
+    <p-table [value]="products" styleClass="p-datatable-striped" [tableStyle]="{'min-width': '50rem'}">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Vendor</th>
+                <th>Price</th>
+                <th>Featured</th>
+                <th>Visible</th>
+                <th style="width: 60px;"></th>
+                <th style="width: 60px;"></th>
+                <th style="width: 60px;"></th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-product>
+            <tr>
+                <td>{{product.name}}</td>
+                <td>{{product.quantity}}</td>
+                <td>{{product.vendor}}</td>
+                <td>{{product.price}}</td>
+                <td>
+                    <i *ngIf="product.isFeatured" class="pi pi-star" style="font-size: 1.5rem;"></i>
+                    <i *ngIf="product.isFeatured == false" class="pi pi-star-fill" style="font-size: 1.5rem;"></i>
+                </td>
+                <td>
+                    <i *ngIf="product.isVisible == true" class="pi pi-eye" style="font-size: 1.5rem"></i>
+                    <i *ngIf="product.isVisible == false" class="pi pi-eye-slash" style="font-size: 1.5rem; color: red;"></i>
+                </td>
+                <td>
+                    <p-button icon="pi pi-pencil" ></p-button>
+                </td>
+                <td>
+                    <p-button icon="pi pi-clone" styleClass="p-button-secondary"></p-button>
+
+                </td>
+                <td>
+                    <p-button icon="pi pi-trash" styleClass="p-button-danger"></p-button>
+
+                </td>
+            </tr>
+        </ng-template>
+    </p-table>
+</div>

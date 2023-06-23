@@ -1,0 +1,17 @@
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\bin\Debug\net6.0\ProductsApi.DataAccess.deps.json
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\bin\Debug\net6.0\ProductsApi.DataAccess.runtimeconfig.json
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\bin\Debug\net6.0\ProductsApi.DataAccess.dll
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\bin\Debug\net6.0\ProductsApi.DataAccess.pdb
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.csproj.AssemblyReference.cache
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.AssemblyInfoInputs.cache
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.AssemblyInfo.cs
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.dll
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\refint\ProductsApi.DataAccess.dll
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.pdb
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.genruntimeconfig.cache
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ref\ProductsApi.DataAccess.dll
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\bin\Debug\net6.0\ProductsApi.Models.dll
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\bin\Debug\net6.0\ProductsApi.Models.pdb
+C:\My\.net\ProductsApi\ProductsApi.DataAccess\obj\Debug\net6.0\ProductsApi.DataAccess.csproj.CopyComplete

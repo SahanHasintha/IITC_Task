@@ -1,0 +1,47 @@
+<h2>Add Product</h2>
+
+<div>
+    <label for="name">Product Title:</label>
+    <div class="card flex justify-content-center">
+        <input [(ngModel)]="title" type="text" id="name"  pInputText>
+    </div>
+</div>
+
+<div>
+    <label for="name">Product Quantity:</label>
+    <div class="card flex justify-content-center">
+        <textarea rows="5" cols="30" pInputTextarea [(ngModel)]="quantity"></textarea>
+    </div>
+</div>
+
+<div>
+    <label for="name">Price:</label>
+    <div class="card flex justify-content-center">
+        <input [(ngModel)]="price" type="text" id="name"  pInputText>
+    </div>
+</div>
+
+<div>
+    <label for="name">Vendor:</label>
+    <div class="card flex justify-content-center">
+        <input [(ngModel)]="vendor" type="text" id="name"  pInputText>
+    </div>
+</div>
+
+<div class="card flex justify-content-center gap-3">
+    <div class="flex align-items-center gap-1">
+        <p-checkbox name="group1" value="New York" [(ngModel)]="visible" [binary]="true" inputId="binary"></p-checkbox>
+        <label for="ny">Visible</label>
+    </div>
+    <div class="flex align-items-center gap-1">
+        <p-checkbox name="group1" value="San Francisco" [(ngModel)]="featured" [binary]="true" inputId="binary"></p-checkbox>
+        <label for="sf">Featured</label>
+    </div>
+    <div class="flex align-items-center gap-1">
+        <p-checkbox name="group1" value="Los Angeles" [(ngModel)]="outOfStock" [binary]="true" inputId="binary"></p-checkbox>
+        <label for="la">Out of Stock</label>
+    </div>
+</div>
+
+
+<button type="button" (click)="onSubmit()" pButton>Submit</button>
